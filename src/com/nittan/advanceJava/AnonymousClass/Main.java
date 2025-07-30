@@ -1,4 +1,4 @@
-package AnonymousClass;
+package com.nittan.advanceJava.AnonymousClass;
 
 class A{
     public void show(){

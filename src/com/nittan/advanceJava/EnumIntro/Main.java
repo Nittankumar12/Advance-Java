@@ -1,4 +1,4 @@
-package EnumIntro;
+package com.nittan.advanceJava.EnumIntro;
 
 enum Status{
     Running,Doing,Going,Compiling;

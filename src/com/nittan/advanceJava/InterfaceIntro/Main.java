@@ -1,4 +1,4 @@
-package com.nittan.advanceJava.AbstractAndAnonymous.InterfaceIntro;
+package com.nittan.advanceJava.InterfaceIntro;
 /*
 class to class -> extends
 class to interface -> implements

@@ -1,4 +1,4 @@
-package InnerClass;
+package com.nittan.advanceJava.InnerClass;
 
 class Outer{
     int a = 10;

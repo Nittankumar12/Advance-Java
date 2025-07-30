@@ -1,4 +1,4 @@
-package FunctionalInterface;
+package com.nittan.advanceJava.FunctionalInterface;
 
 
 // we use lambda experssion with functional interfaces

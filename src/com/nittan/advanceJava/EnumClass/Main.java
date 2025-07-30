@@ -1,4 +1,4 @@
-package EnumClass;
+package com.nittan.advanceJava.EnumClass;
 
 
 enum Laptop{

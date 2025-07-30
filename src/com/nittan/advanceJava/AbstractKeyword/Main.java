@@ -1,4 +1,4 @@
-package AbstractKeyword;
+package com.nittan.advanceJava.AbstractKeyword;
 
 /*
 In abstract classes:

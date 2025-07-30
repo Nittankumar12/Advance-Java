@@ -1,4 +1,4 @@
-package com.nittan.advanceJava.AbstractAndAnonymous.LambdaExpression;
+package com.nittan.advanceJava.LambdaExpression;
 
 
 // we use lambda experssion with functional interfaces
