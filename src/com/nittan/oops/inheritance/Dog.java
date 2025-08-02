@@ -18,4 +18,6 @@ public class Dog extends Animal{
     protected void protectedMethodBeing(){
         System.out.println("protectedmethodbeing in dog class");
     }
+
+
 }
